@@ -1,6 +1,6 @@
 # Emoji
 Emoji class Code in java
-
+https://www.youtube.com/watch?v=0pcqL8ogla4
 
 package gki.test;<br>
 import java.awt.image.BufferedImage;<br>
