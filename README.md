@@ -35,7 +35,7 @@ public class Test extends JFrame{<br>
 			}<br>
 		});<br>
     	add(e);<br>
-    	setIconImage(new ImageIcon(getClass().getResource("/gki/test/logo.png")).getImage());<br>
+    	setIconImage(new ImageIcon(getClass().getResource("/gki/logo/logo.png")).getImage());<br>
     	setVisible(true);<br>
     	setSize(500, 500);<br>
     	setDefaultCloseOperation(EXIT_ON_CLOSE);<br>
